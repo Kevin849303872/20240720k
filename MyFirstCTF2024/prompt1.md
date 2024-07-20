@@ -2,7 +2,7 @@ ME：`你是專家,請用十頁簡報說明CIA TRIAD`
 ======
 
 Gemini
-------
+======
 > ## Slide 1
 > 
 > **CIA三合一：資訊安全的基礎**
@@ -117,7 +117,7 @@ Gemini
 > * 人工
 
 Copilot
-------
+======
 > 當然可以！CIA Triad 是資訊安全的基礎概念，包含三個主要元素：機密性 (Confidentiality)、完整性 (Integrity) 和可用性 (Availability)。以下是簡報的概要：
 > 
 > ### 頁 1: 封面
@@ -170,7 +170,7 @@ Copilot
 > (4) The CIA Triad — Confidentiality, Integrity, and Availability Explained - freeCodeCamp.org. https://www.freecodecamp.org/news/the-cia-triad-confidentiality-integrity-and-availability-explained/.
 
 ChatGPT 3.5
-------
+======
 > 當然！以下是一份簡報，關於CIA三角（CIA Triad）的基本概念和重要性：
 > 
 > ---
@@ -258,7 +258,7 @@ ChatGPT 3.5
 > 這份簡報包含了CIA三角的基本概念、實際應用和挑戰，希望能夠幫助理解這一重要的信息安全概念！
 
 perplexity
-------
+======
 > ## CIA Triad: 資訊安全的三大支柱
 > 
 > CIA Triad是資訊安全的三大基本原則,包括機密性(Confidentiality)、完整性(Integrity)和可用性(Availability)。這三個原則為企業制定資安防護策略和評估潛在威脅提供了基礎[1]。
