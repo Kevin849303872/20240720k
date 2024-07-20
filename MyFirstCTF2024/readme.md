@@ -6,6 +6,9 @@
 * [Google GEMINI](https://gemini.google.com/app)
 * Copilot
 
-[prompt1：`你是專家,請用十頁簡報說明CIA TRIAD`](./prompt1.md)
+prompt1：[`你是專家,請用十頁簡報說明CIA TRIAD`](./prompt1.md)
 
-[prompt2：`請為李白將進酒畫四幅水墨畫`](./prompt2.md)
+prompt2：[`請為李白將進酒畫四幅水墨畫`](./prompt2.md)
+
+prompt3：[`請幫我完成9*9乘法表的C程式設計`](./prompt3.md)
+
