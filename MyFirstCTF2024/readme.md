@@ -8,3 +8,4 @@
 
 [prompt1：`你是專家,請用十頁簡報說明CIA TRIAD`](./prompt1.md)
 
+[prompt2：`請為李白將進酒畫四幅水墨畫`](./prompt2.md)
