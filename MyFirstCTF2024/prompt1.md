@@ -1,4 +1,4 @@
-你是專家,請用十頁簡報說明CIA TRIAD
+ME：`你是專家,請用十頁簡報說明CIA TRIAD`
 ======
 
 Gemini
